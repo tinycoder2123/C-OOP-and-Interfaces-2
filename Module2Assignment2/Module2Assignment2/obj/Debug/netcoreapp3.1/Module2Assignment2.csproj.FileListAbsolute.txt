@@ -1,0 +1,13 @@
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\obj\Debug\netcoreapp3.1\Module2Assignment2.csprojAssemblyReference.cache
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\obj\Debug\netcoreapp3.1\Module2Assignment2.AssemblyInfoInputs.cache
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\obj\Debug\netcoreapp3.1\Module2Assignment2.AssemblyInfo.cs
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\obj\Debug\netcoreapp3.1\Module2Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\bin\Debug\netcoreapp3.1\Module2Assignment2.exe
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\bin\Debug\netcoreapp3.1\Module2Assignment2.deps.json
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\bin\Debug\netcoreapp3.1\Module2Assignment2.runtimeconfig.json
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\bin\Debug\netcoreapp3.1\Module2Assignment2.runtimeconfig.dev.json
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\bin\Debug\netcoreapp3.1\Module2Assignment2.dll
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\bin\Debug\netcoreapp3.1\Module2Assignment2.pdb
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\obj\Debug\netcoreapp3.1\Module2Assignment2.dll
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\obj\Debug\netcoreapp3.1\Module2Assignment2.pdb
+C:\Users\karol\source\repos\Module2Assignment2\Module2Assignment2\obj\Debug\netcoreapp3.1\Module2Assignment2.genruntimeconfig.cache
